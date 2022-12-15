@@ -58,7 +58,7 @@ namespace Biblioteca.Models
                 }
                 
                 //ordenação padrão
-                return query.OrderBy(l => l.Titulo).ToList();
+                return query.OrderBy(l => l.Ano).ToList();
             }
         }
 

@@ -115,3 +115,5 @@
 /home/sirnivass/Documentos/SENAC/UC 07/Atividade/Biblioteca - netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /home/sirnivass/Documentos/SENAC/UC 07/Atividade/Biblioteca - netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /home/sirnivass/Documentos/SENAC/UC 07/Atividade/Biblioteca - netcore3.1/Biblioteca/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/sirnivass/Documentos/SENAC/UC 07/Atividade/Biblioteca - netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/CadUser.cshtml.g.cs
+/home/sirnivass/Documentos/SENAC/UC 07/Atividade/Biblioteca - netcore3.1/Biblioteca/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/_FormCadUser.cshtml.g.cs
